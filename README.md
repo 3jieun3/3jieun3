@@ -1,8 +1,9 @@
+<div align=center> <h2> Hi👋 I'm Jieun </h2> </div>
+
 <div align=center>
-    
-### Hi👋
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skysun102)](https://solved.ac/skysun102)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3jieun3&show_icons=true&theme=calm)
-
+    <p>
+      <img height="130em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=skysun102">
+      <img height="130em" src="https://github-readme-stats.vercel.app/api?username=3jieun3&show_icons=true&theme=calm">
+    </p>
 </div>
+
