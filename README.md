@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hi%20I%20am%20JiEun.&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=header&text=Hi👋%20I'm%20Jieun.&fontSize=35)
 <div align=center> <h2> Hi👋 I'm Jieun </h2> </div>
 
 <div align=center>
