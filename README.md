@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=849daa&height=150&section=header&text=🫧Jieun%20Github🫧&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=849daa&height=150&section=header&text=🫧Jieun%20Github🫧&fontSize=50&fontColor=e2dfd8)
 
 <div align=center>
     <p>
