@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=849daa&height=150&section=header&text=Hi👋%20I'm%20Jieun.&fontSize=40&fontColor=cec3c0&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=849daa&height=150&section=header&text=Hi👋%20I'm%20Jieun&fontSize=40&fontColor=e2dddb&animation=fadeIn)
 
 <div align=center>
     <p>
@@ -7,3 +7,4 @@
     </p>
 </div>
 
+![footer](https://capsule-render.vercel.app/api?type=rounded&color=849daa&height=50&section=footer&text=IAMANAUTHOR&fontSize=10&fontColor=e2dddb)
