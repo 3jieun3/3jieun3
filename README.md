@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=50577A&height=150&section=header&text=Jieun%20Github&fontSize=50&fontColor=e2dfd8&fontAlign=75&fontAlignY=20&rotate=10)
+
+<img align="cneter" width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=50577A&height=80&section=header&text=Jieun%20Github&fontSize=35&fontColor=e2dfd8">
 
 <div align=center>
     <p>
